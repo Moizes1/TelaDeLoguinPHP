@@ -1,0 +1,16 @@
+
+.dados-login {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+}
+
+.login {
+	display: flex;
+	flex-direction: column;
+	padding: 40px;
+	background: #F2F2F2;
+	border: 1px solid blue;
+	border-radius: 5px;
+} 

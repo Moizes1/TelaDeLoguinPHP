@@ -4,7 +4,7 @@
 	$usuario_autenticado = false;
 	
 	// Criação de usuario e senha de forma estatica
-	// Pra testar o scrpit use o email e senha abaixo 
+	// Pra testar o script use o email e senha abaixo 
 	$usuario = array(
 		array('email' => 'user@teste.com.br', 'senha' => '12345')
 	);
